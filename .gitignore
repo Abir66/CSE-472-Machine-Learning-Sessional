@@ -1,0 +1,5 @@
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore the specific folder named abcd/test
+Offline-2-LR-with-Bagging-and-Stacking/datasets/
