@@ -3,3 +3,5 @@ __pycache__/
 
 # Ignore the specific folder named abcd/test
 Offline-2-LR-with-Bagging-and-Stacking/datasets/
+Offline-3-FNN/src/data/
+Offline-3-FNN/src/models/
