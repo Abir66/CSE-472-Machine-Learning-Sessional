@@ -5,3 +5,4 @@ __pycache__/
 Offline-2-LR-with-Bagging-and-Stacking/datasets/
 Offline-3-FNN/src/data/
 Offline-3-FNN/src/models/
+Offline-4-PCA-and-EM-Algorithm/src/data
